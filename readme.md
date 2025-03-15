@@ -48,9 +48,10 @@ python generate_subtitles.py ./input ./output
      pip install -r requirements.txt
      ```
 
-## About "Tira con Ventaja" [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TiraConVentaja) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tiraconventaja/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tira.con.ventaja)
+## About "Tira con Ventaja" [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TiraConVentaja) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tiraconventaja/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tira.con.ventaja)![Argentina](https://img.shields.io/badge/Argentina-%F0%9F%87%A6%F0%9F%87%B7-blue)
 
 
 
 
-**Tira con Ventaja** is a Spanish-language (Latin American) Dungeons & Dragons channel. This project was developed as part of our effort to improve content accessibility and engagement on social media. By creating subtitles for short video clips, we ensure our content reaches a wider audience quickly and efficiently.
+
+**Tira con Ventaja** is an Youtube channel from Argentina that produces Dungeons & Dragons content. This tool was developed as part of our effort to improve content accessibility and engagement on social media. By creating subtitles for short video clips, we ensure our content reaches a wider audience quickly and efficiently.
